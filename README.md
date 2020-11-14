@@ -7,3 +7,4 @@ Tutorial Source: https://pusher.com/tutorials/serverless-react-native-aws-amplif
 - Installed prerequisites
 - Created repo in GitHub
 - Initiated new Expo project
+- Connected to Amplify
